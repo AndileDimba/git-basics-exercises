@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-okay  This is a Third commits message
-=======
+okay this is a third commits message
 booya
->>>>>>> history
+>>>>>>> histor
