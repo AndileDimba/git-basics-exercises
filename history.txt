@@ -1,0 +1,63 @@
+    1  git clone https://github.com/AndileDimba/intermediate-python-course
+    2  close
+    3  close() now
+    4  exit
+    5  git init
+    6  la -a
+    7  git status
+    8  touch README.md
+    9  git status
+   10  git log
+   11  git status
+   12  git commit -m "initial commit"
+   13  git status
+   14  git log
+   15  git branch
+   16  git log
+   17  git status
+   18  git add README.md
+   19  git status
+   20  git commit -m "initial commit"
+   21  git log
+   22  nano README.md
+   23  cat README.md
+   24  git status
+   25  git rm README.mdy
+   26  git status
+   27  git commit -m "second commit"
+   28  git add .
+   29  git add README.mdy
+   30  git status
+   31  git commit -m "second commit"
+   32  git status
+   33  git log
+   34  nano README.md
+   35  git status
+   36  git add
+   37  nano README.md
+   38  git add README.md
+   39  git status
+   40  git commit -m "third commit"
+   41  git log
+   42  git checkout f08918d0b280852e2b95f4e2f5d2c1de69591a9e
+   43  cat README.md
+   44  git checkout main
+   45  cat README.md
+   46  git status
+   47  git checkout master
+   48  git status
+   49  git branch milkshake-flavours
+   50  git branch
+   51  git switch milkshake-flavours
+   52  git branch
+   53  nano milkshakes.md
+   54  git status
+   55  git add milkshakes.mdy
+   56  git status
+   57  git commit -m "added initial flavours"
+   58  git log
+   59  git switch master
+   60  git branch history
+   61  git checkout history
+   62  git log
+   63  history > history.txt
